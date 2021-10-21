@@ -132,4 +132,3 @@ if__name__=="__main__":
 ![image](https://user-images.githubusercontent.com/58925720/138362846-09cb6c4d-24c8-4a23-8096-a453749bb803.png)
 
 
-![image](https://user-images.githubusercontent.com/58925720/138362567-d0ef1fe0-449c-4e0f-8c41-560f3acb40ec.png)
