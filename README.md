@@ -128,6 +128,7 @@ if__name__=="__main__":
  ![image](https://user-images.githubusercontent.com/58925720/138362831-e53549dc-d9ec-4a24-8159-eabe2ebae74f.png)
 ### 2词语脚本.py  
 修改禁用词：  
-![image](https://user-images.githubusercontent.com/58925720/138362846-09cb6c4d-24c8-4a23-8096-a453749bb803.png)
+![image](https://user-images.githubusercontent.com/58925720/139059964-3d91820f-2bf5-4d83-a123-f54f8475c9a4.png)
+
 
 
